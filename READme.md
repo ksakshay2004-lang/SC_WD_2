@@ -5,9 +5,8 @@ This project is a fully interactive and user-friendly Stopwatch Web Application 
 
 It was completed under Task 02 (SCT_WD_2) of the internship program. The application enables users to accurately measure time intervals with features like lap tracking, split timing, and a modern glassmorphism UI design.
 🖼️ Interface Preview
-<p align="center"> <img src="app%20interface/screenshot/appinterface1.png" alt="Stopwatch App Interface" width="600"/> </p>
-🖼️ Interface Preview
-<p align="center"> <img src="app%20interface/screenshot/appinterface1.png" alt="Stopwatch App Interface" width="600"/> </p>
+<p align="center"> <img src="app%20interface/screenshots/appinterface1.png" alt="Stopwatch App Interface" width="600"/> </p>
+<p align="center"> <img src="app%20interface/screenshots/appinterface1.png" alt="Stopwatch App Interface" width="600"/> </p>
 🎯 Features
 ⏱️ Start, Pause, and Reset functionality
 🧮 High-precision time tracking (HH:MM:SS.CS format)
